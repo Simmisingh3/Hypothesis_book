@@ -12,11 +12,20 @@ There are different-different statistical tests like
 4. ANOVA(F test) etc.
 which are used to compute the **p-value**. Based on p-value(probability) value we decide either to reject or fail to reject a hypothesis.
 
+### Numerical Variables
+A numerical variable is a data variable that can take on any value within a finite or infinite interval. 
 
-### What Are Categorical Variables?
+Numerical variables are also known as: Continuous variables, Quantitative variables.
+Numerical variables have values that describe a measurable quantity as a number, like "how many" or "how much". 
+Examples of numerical variables include: 
+Length, Test scores, Height, Weight, Temperature, Blood glucose, SAT scores. 
+
+Numerical variables can be either continuous or discrete. Continuous data can be thought of as being uncountably infinite. For example, you might pump 8.40 gallons, or 8.41, or 8.414863 gallons, or any possible number from 0 to 20. 
+
+### Categorical Variables
 Categorical variables belong to a subset of variables that can be divided into discrete categories. Names or labels are the most common categories. These variables are also known as qualitative variables because they depict the variable's quality or characteristics.
 
 Categorical variables can be divided into two categories:
 
 **Nominal Variable**: A nominal variable's categories have no natural ordering. Example: Gender, Blood groups
-**Ordinal Variable**: A variable that allows the categories to be sorted is ordinal variables. Customer satisfaction (Excellent, Very Good, Good, Average, Bad, and so on) is an example
+**Ordinal Variable**: A variable that allows the categories to be sorted is ordinal variables. Customer satisfaction (Excellent, Very Good, Good, Average, Bad, and so on) is an example.
