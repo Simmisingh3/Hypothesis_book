@@ -5,8 +5,8 @@ A statistical test begins by formulating a null hypothesis (H0) and an alternati
 
 Different statistical test methods are available to calculate the probability, typically measured as a p-value, of obtaining the observed data. The p-value indicates the likelihood of observing the data or more extreme results assuming the null hypothesis is true. Researchers compare the calculated p-value to a predetermined significance level, often denoted as α, to make a decision regarding the null hypothesis. If the p-value is smaller than α, the results are considered statistically significant, leading to the rejection of the null hypothesis in favor of the alternative hypothesis.
 
-# Example
-Let us take an example of election poll.
+# Example - Election Poll
+
 Suppose elections are occuring in the state of Karnataka and there are two opposition parties and the whole state is voting. Suppose the population of karnataka is 1.4 crore and we want to get the inference about which party is gonna win before the vote counting is done. Here, we can perform statistical analysis in order to understand which party is gonna win.
 We will select small part of that population that is the sample and perform hypothesis test and based on the test results we will predict about which party's gonna win.
 
