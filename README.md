@@ -25,7 +25,9 @@ Numerical variables have values that describe a measurable quantity as a number,
 Examples of numerical variables include: 
 Length, Test scores, Height, Weight, Temperature, Blood glucose, SAT scores. 
 
-Numerical variables can be either continuous or discrete. Continuous data can be thought of as being uncountably infinite. For example, you might pump 8.40 gallons, or 8.41, or 8.414863 gallons, or any possible number from 0 to 20. 
+Numerical variables can be either continuous or discrete. 
+Continuous data can be thought of as being uncountably infinite. For example, you might pump 8.40 gallons, or 8.41, or 8.414863 gallons, or any possible number from 0 to 20. 
+Discrete Data is countable. For example- I have 2 bank accounts, there are 35 students in a class.
 
 ### Categorical Variables
 Categorical variables belong to a subset of variables that can be divided into discrete categories. Names or labels are the most common categories. These variables are also known as qualitative variables because they depict the variable's quality or characteristics.
