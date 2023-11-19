@@ -17,6 +17,7 @@ There are different-different statistical tests like
 4. ANOVA(F test) etc.
 which are used to compute the **p-value**. Based on p-value(probability) value we decide either to reject or fail to reject a hypothesis.
 
+
 ### Numerical Variables
 A numerical variable is a data variable that can take on any value within a finite or infinite interval. 
 
