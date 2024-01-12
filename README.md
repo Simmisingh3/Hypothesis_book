@@ -7,7 +7,7 @@ Different statistical test methods are available to calculate the probability, t
 
 # Example - Election Poll
 
-Suppose elections are occuring in the state of Karnataka and there are two opposition parties and the whole state is voting. Suppose the population of karnataka is 1.4 crore and we want to get the inference about which party is gonna win before the vote counting is done. Here, we can perform statistical analysis in order to understand which party is gonna win.
+Suppose elections are occuring in the state of Karnataka and there are two opposition parties and the whole state is voting. Now, suppose the population of karnataka is 1.4 crore and we want to get the inference about which party is gonna win before the vote counting is done. Here, we can perform statistical analysis in order to understand which party is gonna win.
 We will select small part of that population that is the sample and perform hypothesis test and based on the test results we will predict about which party's gonna win.
 
 There are different-different statistical tests like 
